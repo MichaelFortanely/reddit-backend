@@ -11,7 +11,7 @@ import CommentsRouter from './CommentsRouter.js'
 import UserRouter from './UserRouter.js'
 
 const app = express()
-const PORT = 9001
+const PORT = process.env.PORT || 3000
 
 mongoose.set('strictQuery', false);
 // mongoose.connect(MONGO_URL, {useNewURLParser: true, useUnifiedTopology: true})
