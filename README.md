@@ -1,5 +1,7 @@
 # reddit-backend
 
+https://react-frontend.herokuapp.com/home
+
 This repo is the back end repository for notReddit.
 
 Built a simplifed clone of reddit using the MERN (MongoDB, Express,
