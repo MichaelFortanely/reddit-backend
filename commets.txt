@@ -1,0 +1,20 @@
+[{
+    "id": 0,
+    "user": "BleachWizard420",
+    "timePosted": "March 10, 2022",
+    "commentBody": "Yesterday, I had issues logging in to my facebook account on my computer and went to borrow my husband's laptop to see if I could log in frok there. The laptop was in his bag and he left for work shortly after.",
+    "upvotes": 42069,
+    "nestedReplies": {}
+
+How will a post be structured
+
+top side -> subreddit, user, timeposted, and a join button
+left side -> upvotes and downvotes
+//use uuid for reverything??
+post{
+    post-id: uuid(),
+    subreddit: 'WhitePeopleTwitter',
+    user: "u/light_happiness53",
+    timestamp: "June 10, 2018",
+    upvotes: 33900
+}

@@ -1,0 +1,213 @@
+
+> backend@1.0.0 start
+> nodemon index.js
+
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+process.env.MONGO_URL mongodb+srv://sonia:singh@cluster0.87dvsio.mongodb.net/?retryWrites=true&w=majority
+Server running on port 9000
+{ name: 'Michael' }
+in special get
+found user: 
+[
+  {
+    _id: new ObjectId("63c61344cc80b215b740186e"),
+    user: 'Michael',
+    password: 'Fortanely',
+    karma: 0,
+    account_creation: 2023-01-17T03:17:24.017Z,
+    __v: 22,
+    disliked_posts: [
+      '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+      '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+      'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+    ],
+    liked_posts: [
+      '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+      'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+      'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+    ]
+  }
+]
+{ name: 'Michael' }
+in special get
+req.postID
+c3d316fb-5313-4987-8ccc-fc6adb70f933
+found user: 
+[
+  {
+    _id: new ObjectId("63c61344cc80b215b740186e"),
+    user: 'Michael',
+    password: 'Fortanely',
+    karma: 0,
+    account_creation: 2023-01-17T03:17:24.017Z,
+    __v: 22,
+    disliked_posts: [
+      '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+      '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+      'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+    ],
+    liked_posts: [
+      '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+      'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+      'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+    ]
+  }
+]
+{ name: 'Michael' }
+in special get
+found the post
+printing
+req.postID
+c3d316fb-5313-4987-8ccc-fc6adb70f933
+found user: 
+[
+  {
+    _id: new ObjectId("63c61344cc80b215b740186e"),
+    user: 'Michael',
+    password: 'Fortanely',
+    karma: 0,
+    account_creation: 2023-01-17T03:17:24.017Z,
+    __v: 22,
+    disliked_posts: [
+      '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+      '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+      'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+    ],
+    liked_posts: [
+      '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+      'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+      'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+    ]
+  }
+]
+{ name: 'Michael' }
+in special get
+found the post
+printing
+req.postID
+c3d316fb-5313-4987-8ccc-fc6adb70f933
+found user: 
+[
+  {
+    _id: new ObjectId("63c61344cc80b215b740186e"),
+    user: 'Michael',
+    password: 'Fortanely',
+    karma: 0,
+    account_creation: 2023-01-17T03:17:24.017Z,
+    __v: 22,
+    disliked_posts: [
+      '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+      '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+      'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+    ],
+    liked_posts: [
+      '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+      'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+      'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+    ]
+  }
+]
+found the post
+printing
+req.postID
+c3d316fb-5313-4987-8ccc-fc6adb70f933
+postIDundefined   action 0 user Michael isComment true
+postIDundefined   action 0 user Michael isComment true
+found the post
+printing
+xdsf
+
+-1
+1
+2
+xdsf
+
+-1
+1
+2
+anotherUser: {
+  _id: new ObjectId("63c61344cc80b215b740186e"),
+  user: 'Michael',
+  password: 'Fortanely',
+  karma: 0,
+  account_creation: 2023-01-17T03:17:24.017Z,
+  __v: 22,
+  disliked_posts: [
+    '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+    '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+    'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+  ],
+  liked_posts: [
+    '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+    'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+    'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+  ]
+}
+
+
+
+
+
+
+
+
+
+XXXXXXXXXXXXXXXXXxx
+SUCCESS CHANGIN VOTES
+{
+  liked_posts: [
+    '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+    'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+    'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+  ],
+  disliked_posts: [
+    '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+    '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+    'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+  ]
+}
+anotherUser: {
+  _id: new ObjectId("63c61344cc80b215b740186e"),
+  user: 'Michael',
+  password: 'Fortanely',
+  karma: 0,
+  account_creation: 2023-01-17T03:17:24.017Z,
+  __v: 22,
+  disliked_posts: [
+    '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+    '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+    'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+  ],
+  liked_posts: [
+    '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+    'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+    'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+  ]
+}
+
+
+
+
+
+
+
+
+
+XXXXXXXXXXXXXXXXXxx
+SUCCESS CHANGIN VOTES
+{
+  liked_posts: [
+    '47bf4d11-9e8e-4a25-9fcf-69d56210bbf8',
+    'd13cd8c3-2e84-423e-85ba-92dc26b4495e',
+    'c3d316fb-5313-4987-8ccc-fc6adb70f933'
+  ],
+  disliked_posts: [
+    '280b3a24-fa9c-4341-bb29-00e6cd51ad74',
+    '7dc9b95c-168c-4094-a7ef-4264aed39f27',
+    'ea64637c-fd70-4f0d-a4ff-2f71a4a16d10'
+  ]
+}
